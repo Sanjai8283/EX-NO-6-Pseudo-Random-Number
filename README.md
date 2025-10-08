@@ -4,7 +4,7 @@
 ## Reg no: 212223230185
 
 # AIM: 
-Implementation of Pseudorandom Number Generation Using Standard library
+Implementation of Pseudorandom Number Generation Using Standard library 
 
 # ALGORITHM:
 1.Start the program and import the required libraries.
